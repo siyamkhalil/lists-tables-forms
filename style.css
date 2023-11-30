@@ -24,6 +24,26 @@ ul {
     list-style-position: inside;
 } */
 /* list shorthand */
-ul{
+/* ul{
     list-style: inside square;
-}
+} */
+
+/* table properties */
+/* table{
+ width: 400px;
+ border: 1px;
+ padding: 20px;
+ text-transform: lowercase;
+ letter-spacing: ;   
+} */
+
+/* td {
+    border: 1px solid #0088dd;
+    padding: 15px;}
+    table.one {
+    empty-cells: show;}
+    table.two {
+    empty-cells: hide;
+} */
+
+/* caps between cells */
