@@ -1,0 +1,29 @@
+/* unordered list */
+/* ul{
+list-style-type: circle;
+} */
+
+/* ordered list */
+/* ol{
+    list-style-type: decimal-leading-zero;
+} */
+
+/* images for bullets */
+/* ul{
+    list-style-image: url("./images/red\ apple.jpeg");
+}
+ul {
+    margin: 10px 0px 0px 0px;
+} */
+ 
+/* list style position */
+/* .illuminations{
+    list-style-position: outside;
+}
+.season{
+    list-style-position: inside;
+} */
+/* list shorthand */
+ul{
+    list-style: inside square;
+}
